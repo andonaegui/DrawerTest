@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.randona.drawertest.VerdeFragment"
-    android:background="#31ff1a">
+    android:background="#1a35ff">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
